@@ -44,7 +44,7 @@
                 <li><a href="home.php">Home</a></li>
                 <li><a href="contact_us.php">Contact us</a></li>
                 <li><a href="about_us.php">About us</a></li>
-            </ul>
+            </ul> 
         </nav>
     </header>
 </body>
